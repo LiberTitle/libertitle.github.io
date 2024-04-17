@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="199.85107mm"
+   height="99.851082mm"
+   viewBox="0 0 199.85107 99.851082"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-0.07446172,-145.99644)">
+    <rect
+       style="fill:#8da683;fill-opacity:1;stroke:none;stroke-width:0.148923;stroke-opacity:1"
+       id="rect11"
+       width="199.85107"
+       height="99.851074"
+       x="0.074461721"
+       y="145.99644" />
+    <path
+       id="rect15"
+       style="fill:#dc8920;stroke:#000000;stroke-width:0.264583"
+       d="M 18.579147,187.78209 H 180.48314 c 7.78892,17.55751 8.16189,34.8242 0,51.75619 H 18.579147 c -9.727131,-16.74011 -6.986344,-34.13642 0,-51.75619 z" />
+    <path
+       style="fill:#be8f3c;fill-opacity:1;stroke:#000000;stroke-width:0.303307;stroke-opacity:1"
+       d="m 53.166266,187.71887 c 0,0 -4.429283,11.32372 -4.921425,25.4318 -0.492141,14.10808 3.937139,26.45264 3.937139,26.45264 H 32.988424 c 0,0 -4.921425,-7.64186 -3.93714,-26.45264 0.984285,-18.81076 4.921426,-25.27696 4.921426,-25.27696 z"
+       id="path1" />
+    <path
+       style="fill:#be8f3c;fill-opacity:1;stroke:#000000;stroke-width:0.296068;stroke-opacity:1"
+       d="m 149.06816,239.60073 c 0,0 4.0542,-11.31934 4.5231,-25.4284 0.46889,-14.10903 -3.75119,-26.45444 -3.75119,-26.45444 h 18.28703 c 0,0 4.68898,7.64239 3.75119,26.45444 -0.9378,18.81207 -4.68899,25.27871 -4.68899,25.27871 z"
+       id="path1-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:0.9;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';white-space:pre;fill:#000000;stroke-width:0.264583"
+       x="98.512077"
+       y="232.28566"
+       id="text9571"><tspan
+         x="98.512077"
+         y="232.28566"
+         id="tspan3631"
+         style="stroke-width:0.264583"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan3913">Title</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:0.9;font-family:'Ink Free';-inkscape-font-specification:'Ink Free';white-space:pre;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="106.28099"
+       y="187.50136"
+       id="text2518"><tspan
+         x="106.28099"
+         y="187.50136"
+         id="tspan1154"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="tspan8199">Liber
+</tspan></tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+body {
+    background-color: #8da683;
+
+}
+header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    max-height: 40vh;
+}
+section {
+    border: 1px solid black;
+}
+footer {
+    text-align: right;
+}
+.sudoku-puzzle {
+    display: grid;
+    grid-template-columns: repeat(9, 3.2em [col-start]);
+    
+}
+.box {
+    background-color: white;
+    width: 3.2em;
+    height: 3.2em;
+    border: 2px solid white;
+}
+.row1, .row4, .row7 {
+    border-top: 2px solid black;
+}
+.column1, .column4, .column7 {
+    border-left: 2px solid black;
+}
+.row9{
+    border-bottom: 2px solid black;
+}
+.column9 {
+    border-right: 2px solid black;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+input[type=number] {
+    width: 1em;
+    height: 1em;
+    text-align: center;
+    font-size: 300%;
+    padding: 0;
+    margin: 0;
+
+}
+input[type=number]:focus{
+    overflow: visible;
+}
+@media print {
+    /* */
+    input[disabled]{
+        color: black;
+        background-color: white;
+    }
+}
