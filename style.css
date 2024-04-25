@@ -1,6 +1,6 @@
 body {
-    background-color: #8da683;
-
+    background-color: #588BAC;/* #8da683;*/
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 header img{
     display: block;
@@ -9,9 +9,7 @@ header img{
     max-width: 90%;
     max-height: 40vh;
 }
-section {
-    border: 1px solid black;
-}
+
 footer {
     text-align: right;
 }
@@ -19,6 +17,11 @@ footer {
     display: grid;
     grid-template-columns: repeat(9, 3.2em [col-start]);
     
+}
+.sudoku-with-buttons{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
 .box {
     background-color: white;

@@ -1,6 +1,7 @@
 window.onload = function() {
     setGame();
 }
+
 function setGame() {
     let game = [0,0,0,0,0,0,0,9,0,
                 0,3,0,0,0,0,0,2,8,
@@ -20,4 +21,9 @@ function setGame() {
             box.disabled = "true";
         }
     });
+}
+
+function highlight() {
+    let classArray = window.activeElement.classlist;
+    
 }
