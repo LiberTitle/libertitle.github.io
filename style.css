@@ -72,4 +72,19 @@ input[type=number]:focus{
         color: black;
         background-color: white;
     }
+    .box {
+        border: 2px solid black;
+    }
+    .row1, .row4, .row7 {
+        border-top: 4px solid black;
+    }
+    .column1, .column4, .column7 {
+        border-left: 4px solid black;
+    }
+    .row9{
+        border-bottom: 5px solid black;
+    }
+    .column9 {
+        border-right: 4px solid black;
+    }
 }
